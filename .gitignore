@@ -1,0 +1,11 @@
+.gradle
+build
+.*.swp
+out
+.idea
+*.iml
+.DS_Store
+
+docs/*
+!docs/*.adoc
+**/*.kotlintest
